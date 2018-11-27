@@ -28,7 +28,6 @@ Core related docs
 
 * :doc:`translation`
 * :doc:`unit-testing`
-* :doc:`theming`
 * :doc:`configfile`
 * :doc:`ocs-share-api`
 * :doc:`externalapi`
